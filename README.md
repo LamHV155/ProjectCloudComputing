@@ -6,10 +6,10 @@
   - Đinh Quang Ngọc - 18133034
   - Lâm Hoàng Việt - 18133062 
   
-### Yêu cầu đề tài
+## Yêu cầu đề tài
   - Xây dựng front-end 
   - Xây dựng back-end sử dụng Lambda
   - Database: DynamoDB
 
-### Hướng dẫn sử dụng 
+## Hướng dẫn sử dụng 
   loading ...
