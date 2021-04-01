@@ -1,5 +1,5 @@
 # Đề tài môn: ĐIỆN TOÁN ĐÁM MÂY
-## Tên đề tài: Xây dựng ứng dụng trên AWS cho phép tạo database và cung cấp API để thêm,xóa sửa trên database
+## Tên đề tài: Xây dựng ứng dụng trên AWS cho phép tạo database và cung cấp API để thêm, xóa, sửa trên database
 
 ### GVHD: Huỳnh Xuân Phụng
 ### Nhóm SVTH: 
