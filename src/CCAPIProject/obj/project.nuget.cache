@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "UWTJdBOo/idX+kNaMbgDsdMcYE0GBf66Bxyz4cyTaG+FYA8wk+Lm3WtWb4DwiGhOkXzh7noLlrJJuZ+e399TBA==",
+  "success": true,
+  "projectFilePath": "E:\\awsProject\\CCAPIProject\\src\\CCAPIProject\\CCAPIProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lamhv\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.4.0\\amazon.lambda.apigatewayevents.2.4.0.nupkg.sha512",
+    "C:\\Users\\lamhv\\.nuget\\packages\\amazon.lambda.core\\2.0.0\\amazon.lambda.core.2.0.0.nupkg.sha512",
+    "C:\\Users\\lamhv\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.1.0\\amazon.lambda.serialization.systemtextjson.2.1.0.nupkg.sha512",
+    "C:\\Users\\lamhv\\.nuget\\packages\\awssdk.core\\3.7.0.31\\awssdk.core.3.7.0.31.nupkg.sha512",
+    "C:\\Users\\lamhv\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.0.30\\awssdk.dynamodbv2.3.7.0.30.nupkg.sha512",
+    "C:\\Users\\lamhv\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

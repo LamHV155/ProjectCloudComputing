@@ -1,0 +1,38 @@
+:root {
+    --white-color: #fff;
+    --black-color: #000;
+    --text-color: #333;
+}
+
+* {
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 62.5%;
+    line-height: 1.6 rem; /*vs font-size: 62.5% thì 1rem = 10px */
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+    color: var(--text-color);
+}
+
+body{
+    height: 100vh;
+    width: 100%;
+}
+
+.gird {
+    width: 1450px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+
+.gird__full-width {
+    width: 100%;
+}
+
+.gird__row {
+    display: flex;
+    flex-wrap: wrap;
+}

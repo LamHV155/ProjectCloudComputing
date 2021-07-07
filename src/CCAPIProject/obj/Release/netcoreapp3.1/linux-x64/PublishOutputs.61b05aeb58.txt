@@ -1,0 +1,10 @@
+E:\awsProject\CCAPIProject\src\CCAPIProject\bin\Release\netcoreapp3.1\publish\CCAPIProject.dll
+E:\awsProject\CCAPIProject\src\CCAPIProject\bin\Release\netcoreapp3.1\publish\CCAPIProject.deps.json
+E:\awsProject\CCAPIProject\src\CCAPIProject\bin\Release\netcoreapp3.1\publish\CCAPIProject.runtimeconfig.json
+E:\awsProject\CCAPIProject\src\CCAPIProject\bin\Release\netcoreapp3.1\publish\CCAPIProject.pdb
+E:\awsProject\CCAPIProject\src\CCAPIProject\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.APIGatewayEvents.dll
+E:\awsProject\CCAPIProject\src\CCAPIProject\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Core.dll
+E:\awsProject\CCAPIProject\src\CCAPIProject\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+E:\awsProject\CCAPIProject\src\CCAPIProject\bin\Release\netcoreapp3.1\publish\AWSSDK.Core.dll
+E:\awsProject\CCAPIProject\src\CCAPIProject\bin\Release\netcoreapp3.1\publish\AWSSDK.DynamoDBv2.dll
+E:\awsProject\CCAPIProject\src\CCAPIProject\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll
